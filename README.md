@@ -34,10 +34,8 @@ This application allows Rainbow Six Siege players to easily change their server 
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[YourUsername]/[YourRepoName].git
-   cd [YourRepoName]
+   git clone https://github.com/M13G/R6-Server-Switcher.git
    ```
-   Replace `[YourUsername]` and `[YourRepoName]` with your GitHub username and repository name.
 
 2. **Run the Script**:
    ```bash
